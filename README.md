@@ -1,5 +1,5 @@
 # WordleWorld
-You can skip steps 2 & 3 if you just want to download the release file (app-release.apk).
+You can skip steps 2 & 3 if you just want to download the release file for android phones(app-release.apk).
 
 ### Steps to Generate an APK in Flutter:
 
