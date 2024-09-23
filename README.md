@@ -1,7 +1,6 @@
 # WordleWorld
 A flutter project. Can be played for fun! Please follow the instructions to download!
-You can skip steps 2 & 3 if you just want to download the release file.
-The apk file is within: /build/app/outputs/flutter-apk/app-release.apk
+You can skip steps 2 & 3 if you just want to download the release file (app-release.apk).
 
 ### Steps to Generate an APK in Flutter:
 
