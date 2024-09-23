@@ -1,12 +1,15 @@
 # WordleWorld
 A flutter project. Can be played for fun! Please follow the instructions to download!
+You can skip steps 2 & 3 if you just want to download the release file.
+The apk file is within: /build/app/outputs/flutter-apk/app-release.apk
 
 ### Steps to Generate an APK in Flutter:
 
 1. **Ensure You Have the Necessary Setup:**
     - You should have **Flutter** and **Android Studio** installed and set up with the appropriate Android SDK.
 2. **Switch to Release Mode:**
-    - By default, Flutter runs apps in `debug` mode, but for distribution, you’ll want to use `release` mode. In your terminal, run:
+    - Remember to enter into the folder "word_hurdle_puzzle" 
+    - In your terminal, run:
         
         ```bash
         flutter build apk --release
