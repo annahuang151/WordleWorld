@@ -1,5 +1,7 @@
 # WordleWorld
 A flutter project. Can be played for fun! Please follow the instructions to download!
+You can skip steps 2 & 3 if you just want to download the release file.
+The apk file is within: /build/app/outputs/flutter-apk/app-release.apk
 
 ### Steps to Generate an APK in Flutter:
 
@@ -13,18 +15,18 @@ A flutter project. Can be played for fun! Please follow the instructions to down
         flutter build apk --release
         ```
         
-4. **Locate the APK:**
+3. **Locate the APK:**
     - After the build is successful, you’ll find the APK in the following path:
         
         ```arduino
         /build/app/outputs/flutter-apk/app-release.apk
         ```
         
-5. **Transfer the APK to Your Phone:**
+4. **Transfer the APK to Your Phone:**
     - You can transfer the APK file to your phone via USB, email, or a cloud service like Google Drive.
-6. **Install the APK:**
+5. **Install the APK:**
     - On your Android device, navigate to the APK file and open it. You may need to enable installation from unknown sources in your phone’s settings:
         - Go to **Settings** > **Security** > **Install unknown apps** and enable the app you used to transfer the APK (e.g., Google Drive, file browser).
         - After enabling this, proceed with the APK installation.
-7. **Run the App:**
+6. **Run the App:**
     - Once installed, you can run the app on your phone like any other app.
