@@ -1,6 +1,6 @@
-# word_hurdle_puzzle
+# Wordle World
 
-a guessing word game
+A guessing word game
 
 ## Getting Started
 
